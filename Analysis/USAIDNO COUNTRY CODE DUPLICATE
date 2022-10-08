@@ -1,0 +1,254 @@
+,country_code,country_name
+0,ABW,Aruba
+17,AFG,Afghanistan
+150,AGO,Angola
+260,AIA,Anguilla
+270,ALB,Albania
+368,ANS,"Asia, Middle East and North Africa Region"
+408,ANT,Netherlands Antilles (former)
+431,ARE,United Arab Emirates
+471,ARG,Argentina
+602,ARM,Armenia
+697,ASN,Asia Region
+796,ATG,Antigua and Barbuda
+856,AUS,Australia
+894,AUT,Austria
+965,AZE,Azerbaijan
+1059,BDI,Burundi
+1186,BEL,Belgium
+1243,BEN,Benin
+1372,BFA,Burkina Faso
+1499,BGD,Bangladesh
+1615,BGR,Bulgaria
+1711,BHR,Bahrain
+1810,BHS,Bahamas
+1919,BIH,Bosnia and Herzegovina
+2013,BLR,Belarus
+2107,BLZ,Belize
+2239,BMU,Bermuda
+2247,BOL,Bolivia
+2368,BRA,Brazil
+2510,BRB,Barbados
+2587,BRN,Brunei
+2610,BTN,Bhutan
+2659,BWA,Botswana
+2782,CAF,Central African Republic
+2909,CAN,Canada
+2959,CCN,Central America and Caribbean Region
+2999,CHE,Switzerland
+3022,CHL,Chile
+3164,CHN,China (P.R.C.)
+3260,CIV,Cote d'Ivoire
+3387,CMR,Cameroon
+3515,CNA,Central America Region
+3602,COD,Congo (Kinshasa)
+3737,COG,Congo (Brazzaville)
+3859,COK,Cook Islands
+3862,COL,Colombia
+4004,COM,Comoros
+4108,CPV,Cabo Verde
+4219,CRI,Costa Rica
+4360,CRN,Caribbean Region
+4452,CS-KM,Kosovo
+4542,CUB,Cuba
+4652,CUW,Curacao
+4663,CYM,Cayman Islands
+4675,CYP,Cyprus
+4776,CZE,Czechia
+4867,DEU,Germany
+4927,DJI,Djibouti
+5036,DMA,Dominica
+5100,DNK,Denmark
+5135,DOM,Dominican Republic
+5276,DZA,Algeria
+5400,EAG,Eastern Africa Region
+5469,EAQ,East Asia and Oceania Region
+5516,ECN,Eastern and Central Africa Region
+5529,ECU,Ecuador
+5668,EEE,Central and Eastern Europe Region
+5712,EEN,Eastern Europe Region
+5766,EES,Europe and Eurasia Region
+5816,EGY,Egypt
+5951,ENS,Eastern Asia Region
+6002,ERI,Eritrea
+6051,ESN,East and South Africa Region
+6057,ESP,Spain
+6138,EST,Estonia
+6234,ETH,Ethiopia
+6373,EUN,Europe Region
+6440,EUS,Eurasia Region
+6493,FIN,Finland
+6546,FJI,Fiji
+6618,FRA,France
+6671,FSM,"Micronesia, Federated States of"
+6762,GAB,Gabon
+6885,GBR,United Kingdom
+6939,GEO,Georgia
+7034,GHA,Ghana
+7169,GIN,Guinea
+7298,GMB,Gambia
+7426,GNB,Guinea-Bissau
+7529,GNQ,Equatorial Guinea
+7594,GRC,Greece
+7734,GRD,Grenada
+7791,GRL,Greenland
+7792,GTM,Guatemala
+7931,GUF,French Guiana
+7933,GUY,Guyana
+8067,HKG,"China (Hong Kong, S.A.R., P.R.C.)"
+8136,HND,Honduras
+8275,HRV,Croatia
+8367,HTI,Haiti
+8509,HUN,Hungary
+8613,IDN,Indonesia
+8754,IND,India
+8895,IOT,British Indian Ocean Territory
+8899,IRL,Ireland
+8954,IRN,Iran
+9034,IRQ,Iraq
+9155,ISL,Iceland
+9204,ISR,Israel
+9340,ITA,Italy
+9408,JAM,Jamaica
+9540,JOR,Jordan
+9677,JPN,Japan
+9744,KAZ,Kazakhstan
+9838,KEN,Kenya
+9972,KGZ,Kyrgyzstan
+10067,KHM,Cambodia
+10189,KIR,"Kiribati, Republic of"
+10229,KNA,St. Kitts and Nevis
+10287,KOR,"Korea, Republic of"
+10383,KWT,Kuwait
+10428,LAN,Latin America Region
+10515,LAO,Laos
+10638,LBN,Lebanon
+10775,LBR,Liberia
+10916,LBY,Libya
+11015,LCA,St. Lucia
+11074,LCN,Latin America and Caribbean Region
+11131,LKA,Sri Lanka
+11265,LSO,Lesotho
+11391,LTU,Lithuania
+11484,LVA,Latvia
+11581,MAC,"China (Macau, S.A.R., P.R.C.)"
+11593,MAR,Morocco
+11729,MDA,Moldova
+11824,MDG,Madagascar
+11953,MDV,Maldives
+12056,MEN,Middle East Region
+12128,MEX,Mexico
+12270,MHL,Marshall Islands
+12367,MKD,North Macedonia
+12462,MLI,Mali
+12589,MLT,Malta
+12709,MMR,Burma (Myanmar)
+12839,MNA,North Africa Region
+12879,MNE,Montenegro
+12970,MNG,Mongolia
+13066,MNS,Middle East and North Africa Region
+13159,MOZ,Mozambique
+13271,MRT,Mauritania
+13398,MSR,Montserrat
+13402,MTQ,Martinique
+13421,MUS,Mauritius
+13547,MWI,Malawi
+13679,MYS,Malaysia
+13813,NAM,Namibia
+13910,NAN,North America Region
+13933,NCL,New Caledonia
+13939,NCN,North and Central America Region
+13958,NER,Niger
+14085,NGA,Nigeria
+14211,NIC,Nicaragua
+14349,NLD,Netherlands
+14396,NOR,Norway
+14431,NPL,Nepal
+14567,NRU,Nauru
+14579,np,"Berlin, West"
+14589,np,Czechoslovakia (former)
+14600,np,Germany (former East)
+14601,np,Luxembourg
+14605,np,Soviet Union (former)
+14608,np,Vietnam (former South)
+14632,np,Yemen (former P.D.R.)
+14638,NZL,New Zealand
+14664,OCN,Oceania Region
+14770,OMN,Oman
+14883,PAK,Pakistan
+15021,PAN,Panama
+15163,PER,Peru
+15305,PHL,Philippines
+15447,PIT,Pacific Island Trust Territory
+15456,PLW,Palau
+15512,PNG,Papua New Guinea
+15623,POL,Poland
+15743,PRK,"Korea, Democratic Republic of"
+15805,PRT,Portugal
+15931,PRY,Paraguay
+16073,PSE,West Bank and Gaza
+16171,PYF,French Polynesia
+16172,QAT,Qatar
+16216,ROU,Romania
+16319,RUS,Russia
+16392,RWA,Rwanda
+16518,SAG,Southern Africa Region
+16565,SAN,Southern Asia Region
+16623,SAU,Saudi Arabia
+16726,SCG,Serbia and Montenegro (former)
+16779,SCN,South and Central Asia Region
+16799,SDF,Sudan (former)
+16888,SDN,Sudan
+16984,SEA,South East Asia Region
+17023,SEN,Senegal
+17150,SGP,Singapore
+17260,SLB,Solomon Islands
+17329,SLE,Sierra Leone
+17462,SLV,El Salvador
+17601,SMN,South America Region
+17646,SOM,Somalia
+17777,SRB,Serbia
+17868,SSD,South Sudan
+17931,SSN,Sub-Saharan Africa Region
+18025,STP,Sao Tome and Principe
+18132,SUR,Suriname
+18248,SVK,Slovak Republic
+18338,SVN,Slovenia
+18428,SWE,Sweden
+18459,SWZ,Eswatini
+18586,SYC,Seychelles
+18712,SYR,Syria
+18808,TCA,Turks and Caicos Islands
+18825,TCD,Chad
+18951,TGO,Togo
+19080,THA,Thailand
+19219,TIB,China (Tibet)
+19267,TJK,Tajikistan
+19362,TKM,Turkmenistan
+19455,TLS,Timor-Leste
+19543,TON,Tonga
+19638,TTO,Trinidad and Tobago
+19763,TUN,Tunisia
+19898,TUR,Turkey
+20040,TUV,Tuvalu
+20055,TWN,Taiwan
+20151,TZA,Tanzania
+20281,UGA,Uganda
+20411,UKR,Ukraine
+20508,URY,Uruguay
+20647,UZB,Uzbekistan
+20741,VCT,St. Vincent and Grenadines
+20800,VEN,Venezuela
+20940,VGB,British Virgin Islands
+20943,VNM,Vietnam
+21040,VUT,Vanuatu
+21100,WAN,West Africa Region
+21147,WEC,Western Europe Region
+21176,WHN,Western Hemisphere Region
+21212,WLD,World
+21360,WSM,Samoa
+21478,YEM,Yemen
+21606,YUF,Yugoslavia (former)
+21624,ZAF,South Africa
+21726,ZMB,Zambia
+21855,ZWE,Zimbabwe
